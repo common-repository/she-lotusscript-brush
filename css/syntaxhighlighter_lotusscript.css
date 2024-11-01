@@ -1,0 +1,30 @@
+.lotusscript .lsString {
+  color: blue !important;
+}
+
+.lotusscript .lsKeyword {
+  color: blue !important;
+  font-weight: bold !important;
+}
+
+.lotusscript .lsClass {
+  color: #aa7700 !important;
+  font-weight: bold !important;
+}
+
+.lotusscript .lsMethod {
+  color: red !important;
+  font-weight: bold !important;
+  font-style: italic !important;
+}
+
+.lotusscript .lsComment {
+  color: green !important;
+  font-weight: bold !important;
+}
+
+.lotusscript .lsDirective {
+  color: #00c800 !important;
+  font-weight: bold !important;
+  font-style: italic !important;
+}
